@@ -1,0 +1,5 @@
+projectKey=lojavirtualdevops
+serverUrl=http://localhost:9030
+dashboardUrl=http://localhost:9030/dashboard/index/lojavirtualdevops
+ceTaskId=AVbwcUiM1MGiR-4ly2GV
+ceTaskUrl=http://localhost:9030/api/ce/task?id=AVbwcUiM1MGiR-4ly2GV
